@@ -82,7 +82,7 @@ main {
     border: 1px solid #ddd;
     padding: 1em;
     text-align: center;
-    width: 300px; /* Atur lebar sesuai kebutuhan */
+    width: 300px; 
 }
 
 .product img {
