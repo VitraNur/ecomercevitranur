@@ -63,7 +63,6 @@ main {
     flex: 1; /* Memanfaatkan seluruh ruang kosong yang dimiliki oleh body */
 }
 /* Styling untuk Produk */
-/* Styling untuk Tampilan Produk */
 #produk {
     background-color: #fff;
     padding: 2em;
